@@ -47,7 +47,7 @@
     <link href="/posts/1/"/>
     <url>/posts/1/</url>
     
-    <content type="html"><![CDATA[<p>1.进入光速虚拟机后 弹出解除安卓12进程限制 然后在此页面下载黑阈</p><p><img src="/image/1.png" alt="image" title="下载黑阈">  </p><p>2.打开手机设置-系统管理-关于手机-版本信息 连续点击软件版本号 直到提示处于开发者选项</p><p><img src="/image/2.png" alt="image" title="开发者模式">  </p><p>3.打开黑阈 选择开发者选项 勾选开发者选项 下拉找到usb调试和无线调试 勾选打开</p><p><img src="/image/3.png" alt="image" title="黑阈界面">  </p><p>4.清理黑阈后台 重新打开 点击无线调试端口 此时进入开发者选项（刚刚用黑阈跳转后开发者选项后台会一直在）</p><p><img src="/image/4.png" alt="image" title="开发者选项">  </p><p>5.手机分屏（黑阈和开发者选项）点击无线调试-使用配位码配对设备 然后输入到黑阈配对 （注意：必须分屏 不然配位码会刷新）</p><blockquote><p>由于已经弄过一次 所以图片上没有分屏</p></blockquote><p><img src="/image/5.png" alt="image" title="开发者选项"> </p><p>6.打开黑阈 这时候输入完配对码会跳转 点击左上角三条杠 然后点击执行指令 回到光速虚拟机复制指令 然后粘贴到黑阈中执行即可</p><p>完成以上操作 即可打开光速虚拟机进行下一步</p>]]></content>
+    <content type="html"><![CDATA[<p>1.进入光速虚拟机后 弹出解除安卓12进程限制 然后在此页面下载黑阈，也可以<a href="https://sj.qq.com/appdetail/me.piebridge.brevent">点击链接下载黑阈</a></p><p><img src="/image/1.png" alt="image" title="下载黑阈">  </p><p>2.打开手机设置-系统管理-关于手机-版本信息 连续点击软件版本号 直到提示处于开发者选项</p><p><img src="/image/2.png" alt="image" title="开发者模式">  </p><p>3.打开黑阈 选择开发者选项 勾选开发者选项 下拉找到usb调试和无线调试 勾选打开</p><p><img src="/image/3.png" alt="image" title="黑阈界面">  </p><blockquote><p>接下来几步很重要，请仔细阅读！</p></blockquote><p>4.进入后台，把黑域小窗化（这里以小米手机演示，不同手机开小窗不一样）</p><p><img src="/image/8.png" alt="image" title="打开小窗">  </p><p>5.打开小窗后，打开并点击无线调试 <em>注意是点无线调试，不是点旁边的开关，开关只要打开就好</em></p><p>6.点击使用配对码配对，输入端口和配对码<br><img src="/image/9.png" alt="image" title="输入配对码"> </p><p>7.这时候输入完配对码会跳转 点击左上角三条杠 然后点击执行指令 回到光速虚拟机复制指令 然后粘贴到黑阈中执行即可<br><img src="/image/10.png" alt="image" title="输入指令"> </p><p>完成以上操作 即可打开光速虚拟机进行下一步</p>]]></content>
     
     
     
