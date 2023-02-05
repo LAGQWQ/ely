@@ -8,7 +8,7 @@
     <link href="/posts/0/"/>
     <url>/posts/0/</url>
     
-    <content type="html"><![CDATA[<p>欢迎来到Ely科技交流网站，如需要原神科技请三连加群<code>756450242</code>  </p><p>本网站会发布科技相关教程，如网站内没有请在群里询问。所有科技在群文件里。</p><p>科技仅用于测试学习，请在24小时内自主删除。</p>]]></content>
+    <content type="html"><![CDATA[<p>欢迎来到Ely科技交流网站，如需要原神科技请三连加群<code>756450242</code>  </p><p>本网站会发布科技相关教程，如网站内没有请在群里询问。所有科技在群文件里。网站右上角菜单可以搜索教程。</p><p>科技仅用于测试学习，请在24小时内自主删除。</p>]]></content>
     
     
     
@@ -21,7 +21,7 @@
     <link href="/posts/2/"/>
     <url>/posts/2/</url>
     
-    <content type="html"><![CDATA[<p>1.打开配置好的光速虚拟机</p><p>2.点开虚拟机内设置 找到超级用户设置 然后打开超级用户选项</p><p>3.把QQ导入到虚拟机内 登录QQ 到群文件下载脚本和GG修改器</p><p>4.打开GG修改器 点击开始 然后打开原神<br><img src="/image/6.png" alt="image" title="GG修改器界面">  </p><p>5.选择原神 点击三角 然后三个点 根据这个路径找到脚本：</p><figure class="highlight haskell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs haskell"><span class="hljs-type">Android</span>&gt;<span class="hljs-class"><span class="hljs-keyword">data</span>&gt;com.tencent.mobileqq&gt;<span class="hljs-type">Tencent</span>&gt;<span class="hljs-type">QQfile_recv</span></span><br></code></pre></td></tr></table></figure><p><img src="/image/7.png" alt="image" title="GG修改器界面">  </p><p>6.找到脚本 点击脚本 执行 此时流程全部完成 可以畅享开挂乐趣</p>]]></content>
+    <content type="html"><![CDATA[<p>1.打开配置好的光速虚拟机</p><p>2.点开虚拟机内设置 找到超级用户设置 然后打开超级用户选项</p><p>3.把QQ导入到虚拟机内 登录QQ 到群文件下载脚本和GG修改器</p><p>4.打开GG修改器 点击开始 然后打开原神<br><img src="/image/6.png" alt="image" title="GG修改器界面">  </p><p>5.选择原神 点击三角 然后三个点 根据这个路径找到脚本：</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs 复制">/storage/emulated/Android/data/com.tencent.mobileqq/Tencent/QQfile_recv/原神3.4 GG南风脚本（需root或虚拟机导入GG修 无防封）<br></code></pre></td></tr></table></figure><p><img src="/image/7.png" alt="image" title="GG修改器界面">  </p><p>6.找到脚本 点击脚本 执行 此时流程全部完成 可以畅享开挂乐趣</p>]]></content>
     
     
     
