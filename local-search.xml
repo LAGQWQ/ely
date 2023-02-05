@@ -4,11 +4,11 @@
   
   
   <entry>
-    <title>欢迎来到Ely的小站</title>
+    <title>光速虚拟机的配置教程</title>
     <link href="/posts/1/"/>
     <url>/posts/1/</url>
     
-    <content type="html"><![CDATA[<p>本站旨在宣传免费原神外挂，欢迎你加入QQ群聊 <code>756450242</code> 交流外挂等。<br><strong>所有外挂仅用于学习，请在24小时内自主删除</strong></p><p>网站所有者: Ely QQ: 2213578613</p>]]></content>
+    <content type="html"><![CDATA[<p>1.进入光速虚拟机后 弹出解除安卓12进程限制 然后在此页面下载黑阈</p><p><img src="/image/1.png" alt="image" title="下载黑阈">  </p><p>2.打开手机设置-系统管理-关于手机-版本信息 连续点击软件版本号 直到提示处于开发者选项</p><p><img src="/image/2.png" alt="image" title="开发者模式">  </p><p>3.打开黑阈 选择开发者选项 勾选开发者选项 下拉找到usb调试和无线调试 勾选打开</p><p><img src="/image/3.png" alt="image" title="黑阈界面">  </p><p>4.清理黑阈后台 重新打开 点击无线调试端口 此时进入开发者选项（刚刚用黑阈跳转后开发者选项后台会一直在）</p><p><img src="/image/4.png" alt="image" title="开发者选项">  </p><p>5.手机分屏（黑阈和开发者选项）点击无线调试-使用配位码配对设备 然后输入到黑阈配对 （注意：必须分屏 不然配位码会刷新）</p><blockquote><p>由于已经弄过一次 所以图片上没有分屏</p></blockquote><p><img src="/image/5.png" alt="image" title="开发者选项"> </p><p>6.打开黑阈 这时候输入完配对码会跳转 点击左上角三条杠 然后点击执行指令 回到光速虚拟机复制指令 然后粘贴到黑阈中执行即可</p><p>完成以上操作 即可打开光速虚拟机进行下一步</p>]]></content>
     
     
     
