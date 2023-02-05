@@ -4,11 +4,24 @@
   
   
   <entry>
+    <title>(置顶)必看!科技问题相关问答</title>
+    <link href="/posts/4/"/>
+    <url>/posts/4/</url>
+    
+    <content type="html"><![CDATA[<p>本文章为各路小白提供各种问答，可以作为参考</p><p>Q：会封号吗<br>A：看运气 玩别怕怕别玩</p><p>Q：全局加速多少倍不封<br>A：开了就有可能封号，一般两倍就行了</p><p>Q：原神要装在虚拟机里面吗？<br>A：对，所有软件都要装虚拟机，虚拟机和手机是隔开的，不相通。</p><p>Q：有没有一刀999999<br>A：有，很容易封号</p><p>Q：苹果能玩吗<br>A：不能</p><p>Q：ac和hr哪个好<br>A：差不多的，可以试试hr</p><p>Q：我开小号大号会有问题嘛<br>A：不会</p><p>Q：B服&#x2F;国际服&#x2F;米服&#x2F;私服可以玩吗？<br>A：可以，什么服都能玩</p><p>Q：云原神能玩吗？<br>A：不能</p><p>Q：虚拟机为什么不弹窗<br>A：不弹窗是正常现象，反而弹窗才是不正常现象，不需要过多担心</p><p>Q：有没有病毒和捆绑？<br>A：没有病毒</p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>(置顶)手机端开科技手把手教程</title>
     <link href="/posts/3/"/>
     <url>/posts/3/</url>
     
-    <content type="html"><![CDATA[<p>考虑到群里完全不懂的萌新太多了，一个一个教很麻烦，在此撰写手把手教程。</p><h1 id="1-下载模拟器"><a href="#1-下载模拟器" class="headerlink" title="1.下载模拟器"></a>1.下载模拟器</h1><p>第一步，下载安装光速虚拟机 <a href="https://sj.qq.com/appdetail/com.vphonegaga.titan">点击下载</a> 。安装完毕后如果提示<code>解除安卓12进程限制</code>，则请查看文章<a href="https://ely.snesite.ga/posts/1/">光速虚拟机的配置教程</a></p><h1 id="2-下载软件"><a href="#2-下载软件" class="headerlink" title="2.下载软件"></a>2.下载软件</h1><p>打开光速虚拟机，打开浏览器并下载qq。下载完成后登录账号进群下载<code>GG修改器</code>和<code>南风脚本</code>和原神。注意是在模拟手机内下载，不是在真手机里下载。下载完成后，按照文章<a href="https://ely.snesite.ga/posts/2/">GG修改器导入教程</a>的教程跟着来就可以了。</p>]]></content>
+    <content type="html"><![CDATA[<p>考虑到群里完全不懂的萌新太多了，一个一个教很麻烦，在此撰写手把手教程。</p><p><strong>在此声明：开科技可能会封号，也可能不会，这取决于运气。还是那句话，怕别开开别怕</strong></p><h1 id="1-下载模拟器"><a href="#1-下载模拟器" class="headerlink" title="1.下载模拟器"></a>1.下载模拟器</h1><p>第一步，下载安装光速虚拟机 <a href="https://sj.qq.com/appdetail/com.vphonegaga.titan">点击下载</a> 。安装完毕后如果提示<code>解除安卓12进程限制</code>，则请查看文章<a href="https://ely.snesite.ga/posts/1/">光速虚拟机的配置教程</a>。如果直接进入虚拟机可以直接看第二步。直接进虚拟机是正常现象，无需过多担心。</p><blockquote><p>一般只有Android12新手机才会弹窗，Android12以下系统不需要解除</p></blockquote><h1 id="2-下载软件"><a href="#2-下载软件" class="headerlink" title="2.下载软件"></a>2.下载软件</h1><p>打开光速虚拟机，打开浏览器并下载qq。下载完成后登录账号进群下载<code>GG修改器</code>和<code>南风脚本</code>和原神。注意是在模拟手机内下载，不是在真手机里下载。下载完成后，按照文章<a href="https://ely.snesite.ga/posts/2/">GG修改器导入教程</a>的教程跟着来就可以了。</p>]]></content>
     
     
     
@@ -21,7 +34,7 @@
     <link href="/posts/0/"/>
     <url>/posts/0/</url>
     
-    <content type="html"><![CDATA[<p>欢迎来到Ely科技交流网站，如需要原神科技请三连加群<code>756450242</code>  </p><p>本网站会发布科技相关教程，如网站内没有请在群里询问。所有科技在群文件里。网站右上角菜单可以搜索教程。</p><p>科技仅用于测试学习，请在24小时内自主删除。</p>]]></content>
+    <content type="html"><![CDATA[<p>欢迎来到Ely科技交流网站，如需要原神科技请三连加群<code>756450242</code>。</p><p>所有教程都在网站内，请仔细阅读网站内的教程，不要当伸手党，网站右上角菜单可以搜索教程。不要当伸手党，一键三连视频后截图发群里，不要一上来就问“有没有手机版” “怎么下载” “这xxx出问题了咋办”等问题，网站有极详细的教程，如果网站上没有再问大家！不愿意的伸手党可以直接退群。</p><p>另：开别怕怕别玩，开科技有一定的风险，封不封看运气。目前已知开倍率技能无cd伤害封号几率高 开杀戮光环和无敌封号几率中 开无限体力封号几率低。</p><p>科技仅用于测试学习，请在24小时内自主删除。</p>]]></content>
     
     
     
